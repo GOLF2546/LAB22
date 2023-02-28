@@ -1,2 +1,2 @@
-# NAME:นายภัทรพล ณ นคร
-# STUDENT ID:650610796
+# NAME: Pattarapol Na Nakorn
+# STUDENT ID: 650610796
